@@ -1,8 +1,17 @@
 # Zeti's Developer Test
  
-Thanks for taking the time to do this test and apply to work at Zeti. This test should not take  you more than 2 hours - if you find yourself taking longer than this, please just stop work and take down any notes about where you wanted to take the work if you had time. This test is not language specific, however the test should be taken in whatever language has been specified by your recruitment contact. If you have any questions, please get in touch either through an issue on this repository or via email to hello@zeti.co.uk or your usual contact. Submissions should be done by sending a link to your own (private) GitHub repo to your recruitment contact, or however they have asked you to do it. If you are sending over a private GitHub repository, please makesure to add danbasszeti to the users allowed to see the repository. Please don't fork this repo to submit.
+Thanks for taking the time to do this test and apply to work at Zeti. This test comes in two variants, an advanced that takes 2-4 hours and a standard variant that takes 1-2 hours. This test is not language specific, however the test should be taken in whatever language has been specified by your recruitment contact. If you have any questions, please get in touch either through an issue on this repository or via email to hello@zeti.group or your usual contact. Submissions should be done by sending a link to your own (private) GitHub repo to your recruitment contact, or however they have asked you to do it. If you are sending over a private GitHub repository, please makesure to add danbasszeti to the users allowed to see the repository. Please don't fork this repo to submit.
+## Advanced (2-4 hours)
 
-## The Task
+Create a user interface for Zeti staff to calculate the bill for a customer between 2021-02-01T00:00:00Z and 2021-02-28T23:59:00Z. 
+
+The customer (Asset Operator) is called Bob's Taxis. They have a fleet of 2 vehicles (number plates CBDH 789 and 86532 AZE), and pay £0.207 per mile they travel. There is a very limited telematics providers API to help you here: https://funczetiinterviewtest.azurewebsites.net/api/swagger/ui
+
+Display the outputs of your calculation in the user interface, in whatever format you think appropriate. Ensure you write some tests, ideally on both the front-end and back-end. 
+
+Please note there are Tips and Things To Consider at the bottom of this document that apply to both test formats. 
+
+## Standard (1-2 hours)
 
 Bill a customer for the usage of their fleet of 2 vehicles.
 
