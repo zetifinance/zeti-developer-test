@@ -1,7 +1,7 @@
 # Zeti's Developer Test
  
 Thanks for taking the time to do this test and apply to work at Zeti. This test should take no more than 4 hours. This test is not language specific, however the test should be taken in whatever language has been specified by your recruitment contact. If you have any questions, please get in touch either through an issue on this repository or via email to hello@zeti.group or your usual contact. Submissions should be done by sending a link to your own (private) GitHub repo to your recruitment contact, or however they have asked you to do it. If you are sending over a private GitHub repository, please makesure to add danbasszeti to the users allowed to see the repository. Please don't fork this repo to submit.
-## Details (2-4 hours)
+## Details
 
 Bill a customer for the usage of their fleet of 2 vehicles.
 
